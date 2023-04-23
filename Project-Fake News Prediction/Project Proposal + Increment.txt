@@ -1,0 +1,8 @@
+DATASET: 
+ The dataset is collected from the open-source repository Kaggle. It contains two 
+separate files one is fake news.csv and truenews.csv. 
+ The number of records in the fake news is 17k and in the true news is 20k. 
+ Attributes of the dataset are the title of the news, the body of the news, the 
+subject or topic of the news, and time stamp of the news. 
+ The categories of the news are political and world news. 
+ The timestamp of the news ranges from 13 January 2016 to 31 December 2017. 
