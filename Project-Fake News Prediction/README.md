@@ -9,6 +9,7 @@ The main objectives of this project are:
 •	Predicting the fake or legitimate news from the given input
 
 The main features of this project are:
+
 •	Applying Term frequency vectorizer to overcome the challenges of a Countvectorizer.
 
 •	Count vectorizer gives the number of occurrences of the words in the document. If the sentences contain the stop words and other contexts of words automatically the weightage is given to the irrelevant words. Whereas the TFIDF vectorizer gives importance equally to the less frequent words and frequent words in the corpus.
